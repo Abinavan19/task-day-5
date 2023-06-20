@@ -1,0 +1,16 @@
+let resume = {
+    "Name": "Abinavan Raja",
+    "Date of Birth":"19/09/2000",
+    "Age":22,
+    "Objective":"To seek a position in a company that can launch my career and help me to build a strong SkillSet",
+    "Qualification":"M.A - Economics",
+    "College Name":"A.M.Jain College of Arts&Science",
+    "Percentage":60,
+    "Progessional Skills": ["HTML", "CSS", "JavaScript", "Python", "Java"],
+    "Soft Skills":["PhotoShop", "Video Edititng"],
+    "Working Experience": {"Company Name": "Sutherland", "Role":"CSA", "No. of Years": 1},
+    "Area of Interest":"Web Development",
+    "Email":"abinavanraja@gmail.com",
+    "phone Number":7339036778,
+    "Address": "4/7,South street madurantakam.",
+  }
